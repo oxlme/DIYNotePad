@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIY记事本", "DIY记事本\DIY记事本.csproj", "{B3D83D21-DBD7-490A-915D-06512E5A1B66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtendNotePad", "ExtendNotePad\ExtendNotePad.csproj", "{0C30FDA8-81CE-41D6-9AFE-0409ADD06AF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3D83D21-DBD7-490A-915D-06512E5A1B66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D83D21-DBD7-490A-915D-06512E5A1B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D83D21-DBD7-490A-915D-06512E5A1B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D83D21-DBD7-490A-915D-06512E5A1B66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C30FDA8-81CE-41D6-9AFE-0409ADD06AF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C30FDA8-81CE-41D6-9AFE-0409ADD06AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C30FDA8-81CE-41D6-9AFE-0409ADD06AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C30FDA8-81CE-41D6-9AFE-0409ADD06AF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
