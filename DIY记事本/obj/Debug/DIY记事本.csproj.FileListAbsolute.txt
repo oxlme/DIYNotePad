@@ -8,3 +8,13 @@ E:\Projects\DIY记事本\DIY记事本\obj\Debug\DIY记事本.exe
 E:\Projects\DIY记事本\DIY记事本\obj\Debug\DIY记事本.pdb
 E:\Projects\DIY记事本\DIY记事本\bin\Debug\ExtendNotePad.dll
 E:\Projects\DIY记事本\DIY记事本\bin\Debug\ExtendNotePad.pdb
+E:\Projects\DIYNotePad\DIY记事本\obj\Debug\DIY记事本.exe
+E:\Projects\DIYNotePad\DIY记事本\obj\Debug\DIY记事本.pdb
+E:\Projects\DIYNotePad\DIY记事本\bin\Debug\DIY记事本.exe
+E:\Projects\DIYNotePad\DIY记事本\bin\Debug\DIY记事本.pdb
+E:\Projects\DIYNotePad\DIY记事本\bin\Debug\ExtendNotePad.dll
+E:\Projects\DIYNotePad\DIY记事本\bin\Debug\ExtendNotePad.pdb
+E:\Projects\DIYNotePad\DIY记事本\obj\Debug\DIY记事本.csprojResolveAssemblyReference.cache
+E:\Projects\DIYNotePad\DIY记事本\obj\Debug\DIY记事本.frmMain.resources
+E:\Projects\DIYNotePad\DIY记事本\obj\Debug\DIY记事本.Properties.Resources.resources
+E:\Projects\DIYNotePad\DIY记事本\obj\Debug\DIY记事本.csproj.GenerateResource.Cache

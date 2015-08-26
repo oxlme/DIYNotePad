@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIY记事本", "DIY记事本\DIY记事本.csproj", "{B3D83D21-DBD7-490A-915D-06512E5A1B66}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtendNotePad", "ExtendNotePad\ExtendNotePad.csproj", "{0C30FDA8-81CE-41D6-9AFE-0409ADD06AF5}"

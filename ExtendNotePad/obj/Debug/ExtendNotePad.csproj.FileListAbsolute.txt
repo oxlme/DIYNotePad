@@ -3,3 +3,8 @@ E:\Projects\DIY记事本\ExtendNotePad\bin\Debug\ExtendNotePad.pdb
 E:\Projects\DIY记事本\ExtendNotePad\obj\Debug\ResolveAssemblyReference.cache
 E:\Projects\DIY记事本\ExtendNotePad\obj\Debug\ExtendNotePad.dll
 E:\Projects\DIY记事本\ExtendNotePad\obj\Debug\ExtendNotePad.pdb
+E:\Projects\DIYNotePad\ExtendNotePad\bin\Debug\ExtendNotePad.dll
+E:\Projects\DIYNotePad\ExtendNotePad\bin\Debug\ExtendNotePad.pdb
+E:\Projects\DIYNotePad\ExtendNotePad\obj\Debug\ExtendNotePad.csprojResolveAssemblyReference.cache
+E:\Projects\DIYNotePad\ExtendNotePad\obj\Debug\ExtendNotePad.dll
+E:\Projects\DIYNotePad\ExtendNotePad\obj\Debug\ExtendNotePad.pdb
